@@ -27,8 +27,10 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/interactive-rating-card-using-html-css-grid-and-vanilla-js-K960EkVeJm
+
+- Live Site URL: 
+https://jamienorthman.github.io/interactive-rating-component-main/
 
 ### Built with
 
