@@ -1,6 +1,6 @@
 # Frontend Mentor - Interactive rating component solution
 
-This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI).
 
 ## Table of contents
 
@@ -34,14 +34,13 @@ https://jamienorthman.github.io/interactive-rating-component-main/
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS Grid
-- Vanilla JS
+- HTML
+- CSS
+- Javascript
+
+I used 'click' event listeners to create interactivity and the forEach() method for recording the ratings.
 
 ## Author
+Miko Jeffries
 
 - Frontend Mentor - [@jamienorthman](https://www.frontendmentor.io/profile/jamienorthman)
-
-## Acknowledgments
-
-The JS needed some eventListeners but I wasn't sure how to code this exactly but I found a tutorial from TsbSankara on Youtube that explained it well. The JS is minimal and also easy for me to understand. I also took from this tutorial, the "hidden" class for the Thank-you card. I'm looking forward to building more projects and becoming more confident using JS on my own.
