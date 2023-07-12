@@ -138,6 +138,7 @@ html, body {
 }
 
 .attribution { 
+    margin-top: auto;
     font-size: 11px; 
     text-align: center; 
 }
@@ -145,4 +146,3 @@ html, body {
 .attribution a { 
     color: hsl(228, 45%, 44%); 
 }
-
